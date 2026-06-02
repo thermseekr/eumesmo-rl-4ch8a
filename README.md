@@ -10,7 +10,7 @@ Board uses Omron 10A relays and is limited to 8A/channel per copper trace capaci
 
 ## VERSION HISTORY
 
-RELAY-24V-4CH-8A V1.1 - 2026/06/02 - The 2.54mm pitch terminal blocks were replaced for 3.5mm pitch for easier wiring installation.
+RELAY-24V-4CH-8A V1.1 - 2026/06/02 - The 2.54mm pitch terminal blocks for the inputs were replaced by 3.5mm pitch for easier wiring installation.
 
 RELAY-24V-4CH-8A V1.0 - 2024-11-23 - Initial release.
 
