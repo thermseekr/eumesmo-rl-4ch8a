@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "4x 24V 8A Relay Module")
-		(date "2026-06-01")
+		(date "2026-06-02")
 		(rev "V1.1")
 	)
 	(layers
@@ -8406,7 +8406,7 @@
 				)
 			)
 		)
-		(property "Mfr" "DORABO"
+		(property "Mfr" "Wago"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10813,7 +10813,7 @@
 				)
 			)
 		)
-		(property "Mfr" "DORABO"
+		(property "Mfr" "Wago"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11337,6 +11337,17 @@
 		(uuid "29198304-2f6d-43fe-b76c-ba3899e99b2b")
 	)
 	(gr_rect
+		(start 174.25 104)
+		(end 177 109.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "815c5b98-e3b4-4387-99bc-d4a4fa42580e")
+	)
+	(gr_rect
 		(start 125 62.2)
 		(end 178 130)
 		(stroke
@@ -11346,6 +11357,18 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "3884f2c0-c53c-49fd-9b0f-efa7f02cf23e")
+	)
+	(gr_text "V1.1\n2026-06-02"
+		(at 176.75 106.75 90)
+		(layer "F.SilkS")
+		(uuid "cae7a9cf-717c-4231-bfb5-d7095cf409fb")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
 	)
 	(gr_text "IN1"
 		(at 152.75 63.75 0)
@@ -11518,7 +11541,7 @@
 			)
 		)
 	)
-	(gr_text "RELAY-24V-4CH-8A-V1.1"
+	(gr_text "RELAY-24V-4CH-8A-V1"
 		(at 137 64.25 0)
 		(layer "F.SilkS")
 		(uuid "dc160336-46bd-4d4f-87e4-be13a8effe60")
