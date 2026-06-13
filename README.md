@@ -1,6 +1,6 @@
 # eumesmo-rl-4ch8a
 
-Relay board with 4x 24 VDC NO relays. This board is designed to be used togheter with eumesmo-io-24v16ch, but can be driven by any 24V control circuit compatible with NPN inputs. It uses Omron 10A relays and is limited to 8A/channel per copper trace capacity.
+Relay board with 4x 24 VDC NO relays. This board is designed to be used togheter with [eumesmo-io-24v16ch](https://github.com/thermseekr/eumesmo-io-24v16ch), but can be driven by any 24V control circuit compatible with NPN inputs. It uses Omron 10A relays and is limited to 8A/channel per copper trace capacity.
 
 The board is compatible with the SP7 DIN rail system from Metaltex.
 
