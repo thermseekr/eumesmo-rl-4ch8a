@@ -1,18 +1,18 @@
-# RELAY-24V-4CH-8A
+# eumesmo-rl-4ch8a
 
-Relay board with 4x 24 VDC relays rated for 8A. This board is designed to be used togheter with [ESP-24V-16CH](https://github.com/thermseekr/esp-24v-16ch), but can be driven by any 24V control circuit compatible with NPN inputs.
+Relay board with 4x 24 VDC NO relays. This board is designed to be used togheter with eumesmo-io-24v16ch, but can be driven by any 24V control circuit compatible with NPN inputs. It uses Omron 10A relays and is limited to 8A/channel per copper trace capacity.
 
-The dimensions are such that the boards can be mounted on a PCB DIN rail holder from the Brazilian manufacturer Metaltex, check [here](https://www.metaltex.com.br/produtos/componentes/suportes/sp7-suporte-para-montagem-de-placa-de-circuito-impresso-em-trilho-din) for details.
-
-Board uses Omron 10A relays and is limited to 8A/channel per copper trace capacity.
+The board is compatible with the SP7 DIN rail system from Metaltex.
 
 ![RELAY-24V-4CH-8A V1.1](https://github.com/thermseekr/relay-24v-4ch-8a/blob/main/V1/relay-24v-4ch-8a-v1.1.png)
 
 ## VERSION HISTORY
 
-RELAY-24V-4CH-8A V1.1 - 2026/06/02 - Input terminal blocks replaced from 2.54mm to 3.5mm pitch for easier installation in the field.
+V1.2 - 2026/06/13 - Repository renamed from RELAY-24V-4CH-8A to eumesmo-rl-4ch8A to align the design with the eumesmo line of building automation products.
 
-RELAY-24V-4CH-8A V1.0 - 2024-11-23 - Initial release.
+V1.1 - 2026/06/02 - Input terminal blocks replaced from 2.54mm to 3.5mm pitch for easier installation in the field.
+
+V1.0 - 2024-11-23 - Initial release.
 
 ## LICENSE
 
