@@ -4,7 +4,7 @@ Relay board with 4x 24 VDC NO relays. This board is designed to be used togheter
 
 The board is compatible with the SP7 DIN rail system from Metaltex.
 
-![RELAY-24V-4CH-8A V1.1](https://github.com/thermseekr/relay-24v-4ch-8a/blob/main/V1/relay-24v-4ch-8a-v1.1.png)
+![eumesmo-rl-4ch8a V1.2](https://github.com/thermseekr/eumesmo-rl-4ch8a/blob/main/V1/eumesmo-rl-4ch8a-v1.2.png)
 
 ## VERSION HISTORY
 
