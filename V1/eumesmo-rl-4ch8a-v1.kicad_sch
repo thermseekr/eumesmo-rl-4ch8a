@@ -5,9 +5,9 @@
 	(uuid "57cfb5e7-a9ab-4784-80b3-e51e693f5cc8")
 	(paper "A4")
 	(title_block
-		(title "4x 24V 8A Relay Module")
-		(date "2026-06-02")
-		(rev "V1.1")
+		(title "eumesmo 4x 24V 8A Relay Module")
+		(date "2026-06-13")
+		(rev "V1.2")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
@@ -3253,7 +3253,7 @@
 			(uuid "b7cdad10-bf84-460c-9f2c-154013716a42")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "J1")
 					(unit 1)
@@ -3330,7 +3330,7 @@
 			(uuid "51f282c3-7364-4bb4-9f2f-a89776c457d8")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0103")
 					(unit 1)
@@ -3510,7 +3510,7 @@
 			(uuid "982ee3da-1629-4039-ade7-597df233fd5c")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D7")
 					(unit 1)
@@ -3685,7 +3685,7 @@
 			(uuid "8cf2fe7d-93f2-4b32-be5a-592e5aad0320")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K3")
 					(unit 1)
@@ -3877,7 +3877,7 @@
 			(uuid "baa6663e-d093-4ca6-9ee6-94e83ce032e9")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D2")
 					(unit 1)
@@ -4046,7 +4046,7 @@
 			(uuid "d5379013-c8fe-4026-9049-bb892aad3095")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R1")
 					(unit 1)
@@ -4123,7 +4123,7 @@
 			(uuid "7ccfd52a-51b7-4ab7-ad27-46f1721213f1")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0101")
 					(unit 1)
@@ -4297,7 +4297,7 @@
 			(uuid "1a9cc03d-9b63-4538-9096-fc906b4b42db")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "J2")
 					(unit 1)
@@ -4375,7 +4375,7 @@
 			(uuid "b1271da5-dc60-425f-843d-1244e90c71e6")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#FLG0101")
 					(unit 1)
@@ -4555,7 +4555,7 @@
 			(uuid "459da392-a8c6-47a7-9398-f264f080aed0")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D5")
 					(unit 1)
@@ -4724,7 +4724,7 @@
 			(uuid "2faa185e-6df0-4f7c-850e-41d2e083195b")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R3")
 					(unit 1)
@@ -4899,7 +4899,7 @@
 			(uuid "30d7a826-60ec-4bde-8151-a1a8b1ca6676")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K4")
 					(unit 1)
@@ -5074,7 +5074,7 @@
 			(uuid "b0fa0fa3-6400-4243-ab91-249b01afa893")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K1")
 					(unit 1)
@@ -5151,7 +5151,7 @@
 			(uuid "3de37770-d561-4bde-b437-9404dd21aac6")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0105")
 					(unit 1)
@@ -5376,7 +5376,7 @@
 			(uuid "2eb4fdd6-6c5f-4401-9acb-717e6ca55b8c")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV4")
 					(unit 1)
@@ -5545,7 +5545,7 @@
 			(uuid "cd5e60ff-0baa-4304-a1e2-5d6d0672b298")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R4")
 					(unit 1)
@@ -5725,7 +5725,7 @@
 			(uuid "50a31d2f-334a-44c6-9c63-207c382fc059")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D1")
 					(unit 1)
@@ -5950,7 +5950,7 @@
 			(uuid "eb30cfbd-3553-49da-bfd8-5ee446be4d1a")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV2")
 					(unit 1)
@@ -6125,7 +6125,7 @@
 			(uuid "9b19e4d8-e93c-47a5-b1f1-f5144bbf5dd4")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "J4")
 					(unit 1)
@@ -6300,7 +6300,7 @@
 			(uuid "46cb4e10-b51e-4ac5-9742-65fd7c16beba")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "J3")
 					(unit 1)
@@ -6469,7 +6469,7 @@
 			(uuid "2934345a-75f3-46fe-94b7-343fcf6b1b29")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R2")
 					(unit 1)
@@ -6546,7 +6546,7 @@
 			(uuid "29f9c1b9-429a-40ab-85ab-bc7d2f2b0d75")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0104")
 					(unit 1)
@@ -6738,7 +6738,7 @@
 			(uuid "8efcb8ac-309d-45e0-95c1-4a55081e2cba")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D8")
 					(unit 1)
@@ -6815,7 +6815,7 @@
 			(uuid "8d7ef90d-05a6-43b1-a677-fb7163eb09fc")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0102")
 					(unit 1)
@@ -7007,7 +7007,7 @@
 			(uuid "51e01e34-986f-46b1-be59-fa22c270b4df")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D6")
 					(unit 1)
@@ -7187,7 +7187,7 @@
 			(uuid "57d9e90b-a8c0-4728-b7bb-df89069c81b0")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D3")
 					(unit 1)
@@ -7379,7 +7379,7 @@
 			(uuid "4c85c9fe-97c0-4ed6-902a-357980e925d8")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D4")
 					(unit 1)
@@ -7604,7 +7604,7 @@
 			(uuid "87b64b9d-ec46-43d7-b46b-7a3476ea3009")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV1")
 					(unit 1)
@@ -7829,7 +7829,7 @@
 			(uuid "b72e340d-b5b9-4070-a91f-abce3ca8f22c")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV3")
 					(unit 1)
@@ -8004,7 +8004,7 @@
 			(uuid "abc4a914-bbb8-4aef-a8b4-90ea7e892e63")
 		)
 		(instances
-			(project "relay-24v-4ch-8a-v1"
+			(project "eumesmo-rl-4ch8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K2")
 					(unit 1)
