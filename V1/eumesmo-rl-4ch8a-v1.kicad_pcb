@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "eumesmo 4x 24V 8A Relay Module")
-		(date "2026-06-13")
+		(date "2026-06-17")
 		(rev "V1.2")
 	)
 	(layers
@@ -11337,8 +11337,8 @@
 		(uuid "29198304-2f6d-43fe-b76c-ba3899e99b2b")
 	)
 	(gr_rect
-		(start 174.25 104)
-		(end 177 109.5)
+		(start 175.5 102.25)
+		(end 177 109.75)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -11358,8 +11358,8 @@
 		(layer "Edge.Cuts")
 		(uuid "3884f2c0-c53c-49fd-9b0f-efa7f02cf23e")
 	)
-	(gr_text "V1.2\n2026-06-13"
-		(at 176.75 106.75 90)
+	(gr_text "V1.2 2026-06-17"
+		(at 176.25 106 90)
 		(layer "F.SilkS")
 		(uuid "cae7a9cf-717c-4231-bfb5-d7095cf409fb")
 		(effects
@@ -11367,7 +11367,6 @@
 				(size 0.8 0.5)
 				(thickness 0.1)
 			)
-			(justify bottom)
 		)
 	)
 	(gr_text "IN1"
